@@ -1,2 +1,2 @@
 # Projects
-Contains noteworthy coding projectsI've made 
+Contains noteworthy coding projects I've worked on.
